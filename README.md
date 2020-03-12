@@ -12,3 +12,10 @@ Clean and transform the data automatically using Pandas and regular expressions.
 Load new data into PostgreSQL. <br /> 
 
 ### Process Assumptions 
+1. The assumption is made that the initial cleansing of the raw data from wikipedia and Kaggle is sufficient. More code can be written so that further data cleansing can be performed; however it is forgone due to the time constraints.
+
+2. We assume that the reqular expressions used to parse through our box office data will capture the same desired data. Potentially, regex syntax could change or be updated therfore altering our search patterns.
+
+3. 
+4.
+5.
